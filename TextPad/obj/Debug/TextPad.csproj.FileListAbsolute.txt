@@ -1,0 +1,11 @@
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\TextPad\TextPad\bin\Debug\TextPad.exe.config
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\TextPad\TextPad\bin\Debug\TextPad.exe
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\TextPad\TextPad\bin\Debug\TextPad.pdb
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\TextPad\TextPad\obj\Debug\TextPad.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\TextPad\TextPad\obj\Debug\TextPad.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\TextPad\TextPad\obj\Debug\TextPad.Form1.resources
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\TextPad\TextPad\obj\Debug\TextPad.Properties.Resources.resources
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\TextPad\TextPad\obj\Debug\TextPad.csproj.GenerateResource.cache
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\TextPad\TextPad\obj\Debug\TextPad.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\TextPad\TextPad\obj\Debug\TextPad.exe
+C:\Users\STUDENTS-STEM-9\Desktop\11d-oop\TextPad\TextPad\obj\Debug\TextPad.pdb
