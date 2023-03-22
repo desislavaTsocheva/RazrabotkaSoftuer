@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G3MDnZq1o2bhs2lluvVIU1syYcvwSW2lxnBWMmBUXOGpshEhJ8aw3FCyPmgtAR0/qPbjeWwHRh3CHT5pWg+KYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\viole\\OneDrive\\Работен плот\\DimitarAboutWebSite\\ConnectToDataBaseSQL\\ConnectToDataBaseSQL\\ConnectToDataBaseSQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viole\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}
